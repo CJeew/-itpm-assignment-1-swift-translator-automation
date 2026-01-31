@@ -1,0 +1,457 @@
+﻿[
+  {
+    "id": "Pos_Fun_0001",
+    "type": "pos",
+    "input": "mama thava paeyakin pitath venavaa",
+    "expected": "මම තව පැයකින් පිටත් වෙනවා",
+    "keywords": [
+      "මම",
+      "තව",
+      "පැයකින්",
+      "පිටත්",
+      "වෙනවා"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "type": "pos",
+    "input": "bus eka kaeduna nisaa mama edhidhi parakku veevi",
+    "expected": "bus එක කැඩුන නිසා මම එදිදි පරක්කු වේවි",
+    "keywords": [
+      "එක",
+      "කැඩුන",
+      "නිසා",
+      "මම",
+      "එදිදි"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "type": "pos",
+    "input": "mama oya paeththen avoth oyaalava balanna ennam",
+    "expected": "මම ඔය පැත්තෙන් අවොත් ඔයාලව බලන්න එන්නම්",
+    "keywords": [
+      "මම",
+      "ඔය",
+      "පැත්තෙන්",
+      "අවොත්",
+      "ඔයාලව"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "type": "pos",
+    "input": "oyaa adha lab ekata giyaadha?",
+    "expected": "ඔයා අද lab එකට ගියාද?",
+    "keywords": [
+      "ඔයා",
+      "අද",
+      "එකට",
+      "ගියාද?"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "type": "pos",
+    "input": "heta edhdhi okkomala lap geenna",
+    "expected": "හෙට එද්දි ඔක්කොමල lap ගේන්න",
+    "keywords": [
+      "හෙට",
+      "එද්දි",
+      "ඔක්කොමල",
+      "ගේන්න"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0006",
+    "type": "pos",
+    "input": "mama ee report eka haedhuvaa",
+    "expected": "මම ඒ report එක හැදුවා",
+    "keywords": [
+      "මම",
+      "ඒ",
+      "එක",
+      "හැදුවා"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "type": "pos",
+    "input": "mata edhaata enna venne naee",
+    "expected": "මට එදාට එන්න වෙන්නෙ නෑ",
+    "keywords": [
+      "මට",
+      "එදාට",
+      "එන්න",
+      "වෙන්නෙ",
+      "නෑ"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "type": "pos",
+    "input": "suba sandhYAavak",
+    "expected": "සුබ සන්ද්‍යාවක්",
+    "keywords": [
+      "සුබ",
+      "සන්ද්‍යාවක්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "type": "pos",
+    "input": "ena gaman matath ekka pothak geenna puluvandha?",
+    "expected": "එන ගමන් මටත් එක්ක පොතක් ගේන්න පුලුවන්ද?\n",
+    "keywords": [
+      "එන",
+      "ගමන්",
+      "මටත්",
+      "එක්ක",
+      "පොතක්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0010",
+    "type": "pos",
+    "input": "mama balalaa kiyannam",
+    "expected": "මම බලලා කියන්නම්",
+    "keywords": [
+      "මම",
+      "බලලා",
+      "කියන්නම්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "type": "pos",
+    "input": "tharaha naethuva mata meeka vitharak kiyala dhenna puluvandha?",
+    "expected": "තරහ නැතුව මට මේක විතරක් කියල දෙන්න පුලුවන්ද?",
+    "keywords": [
+      "තරහ",
+      "නැතුව",
+      "මට",
+      "මේක",
+      "විතරක්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "type": "pos",
+    "input": "pissu natanna epaa ban",
+    "expected": "පිස්සු නටන්න එපා බන්",
+    "keywords": [
+      "පිස්සු",
+      "නටන්න",
+      "එපා",
+      "බන්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0013",
+    "type": "pos",
+    "input": "mama dhaen tikakata kalin naegitte",
+    "expected": "මම දැන් ටිකකට කලින් නැගිට්ටෙ",
+    "keywords": [
+      "මම",
+      "දැන්",
+      "ටිකකට",
+      "කලින්",
+      "නැගිට්ටෙ"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "type": "pos",
+    "input": "kaalekin dhaekke",
+    "expected": "කාලෙකින් දැක්කෙ",
+    "keywords": [
+      "කාලෙකින්",
+      "දැක්කෙ"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "type": "pos",
+    "input": "dhitvaa suli kuNaatuven pasu looka uruma nakals rivastan saQQchaaraka kalaapaya dhaedi siimaavanta yatathva dhes vidhes saqqchaarakayin sadhahaa vivRUtha kaLa bava maathalee maha dhisaapathi prasanna madhanaayaka mahathaa paevasiiya. paevasiiya. maathalee dhisithrik sambanDhiikaraNa kamitu rAEsvima kamitu saBhaapathi niyoojYA amaathYa gamagedhara dhisaanaayaka mahathaagee praDhaanathvayen paevathi avasthaaveedhii mema thiiranayata eLaBUNi.",
+    "expected": "දිට්වා සුලි කුණාටුවෙන් පසු ලෝක උරුම නකල්ස් රිවස්ටන් සංචාරක කලාපය දැඩි සීමාවන්ට යටත්ව දෙස් විදෙස් සංචාරකයින් සදහා විවෘත කළ බව මාතලේ මහ දිසාපති ප්‍රසන්න මදනායක මහතා පැවසීය. මාතලේ දිසිත්‍රික් සම්බන්ධීකරණ කමිටු රැස්විම කමිටු සභාපති නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් පැවති අවස්තාවේදී මෙම තීරනයට එළඹුණි.",
+    "keywords": [
+      "දිට්වා",
+      "සුලි",
+      "කුණාටුවෙන්",
+      "පසු",
+      "ලෝක"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0016",
+    "type": "pos",
+    "input": "matasaniipanaee",
+    "expected": "මටසනීපනෑ",
+    "keywords": [
+      "මටසනීපනෑ"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0017",
+    "type": "pos",
+    "input": "ov ov",
+    "expected": "ඔව් ඔව්",
+    "keywords": [
+      "ඔව්",
+      "ඔව්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "type": "pos",
+    "input": "IIyee mama e vaedee ivara kalaa",
+    "expected": "ඊයේ මම එ වැඩේ ඉවර කලා",
+    "keywords": [
+      "ඊයේ",
+      "මම",
+      "එ",
+      "වැඩේ",
+      "ඉවර"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0019",
+    "type": "pos",
+    "input": "mama dhaen ena gaman",
+    "expected": "මම දැන් එන ගමන්",
+    "keywords": [
+      "මම",
+      "දැන්",
+      "එන",
+      "ගමන්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "type": "pos",
+    "input": "mama labana sathiyee miimuree trip ekak yanna plan karan inne",
+    "expected": "මම ලබන සතියේ මීමුරේ trip එකක් යන්න plan කරන් ඉන්නේ",
+    "keywords": [
+      "මම",
+      "ලබන",
+      "සතියේ",
+      "මීමුරේ",
+      "එකක්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "type": "pos",
+    "input": "mama nuvara paara dhanne naehae",
+    "expected": "මම නුවර පාර දන්නෙ නැහැ",
+    "keywords": [
+      "මම",
+      "නුවර",
+      "පාර",
+      "දන්නෙ",
+      "නැහැ"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0022",
+    "type": "pos",
+    "input": "eya veelaassanama vaeda tika karalaa thibbaa",
+    "expected": "එය වේලාස්සනම වැඩ ටික කරලා තිබ්බා",
+    "keywords": [
+      "එය",
+      "වේලාස්සනම",
+      "වැඩ",
+      "ටික",
+      "කරලා"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0023",
+    "type": "pos",
+    "input": "oyaata puluvan nam karuNaakaralaa mata meeka paehaedhili karalaa dhenna",
+    "expected": "ඔයාට පුලුවන් නම් කරුණාකරලා මට මේක පැහැදිලි කරලා දෙන්න",
+    "keywords": [
+      "ඔයාට",
+      "පුලුවන්",
+      "නම්",
+      "කරුණාකරලා",
+      "මට"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "type": "pos",
+    "input": "mata adha  zoom meeting ekata log venna baeri veevi magee data ivara nisaa",
+    "expected": "මට අද  zoom meeting එකට log වෙන්න බැරි වේවි මගේ data ඉවර නිසා",
+    "keywords": [
+      "මට",
+      "අද",
+      "එකට",
+      "වෙන්න",
+      "බැරි"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Neg_Fun_0001",
+    "type": "neg",
+    "input": "vaahaneeta thel gahannna oonee",
+    "expected": "වාහනේට තෙල් ගහන්න ඕනේ",
+    "keywords": [
+      "වාහනේට",
+      "තෙල්",
+      "ගහන්න",
+      "ඕනේ"
+    ],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0002",
+    "type": "neg",
+    "input": "man kanna kaemathima kaeemak thamaa iDHI aappa",
+    "expected": "මන් කන්න කැමතිම කෑමක් තමා ඉඳි ආප්ප",
+    "keywords": [
+      "මන්",
+      "කන්න",
+      "කැමතිම",
+      "කෑමක්",
+      "තමා"
+    ],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0003",
+    "type": "neg",
+    "input": "mata t ak gaalaa paeenak dhenna",
+    "expected": "මට ටක් ගාලා පෑනක් දෙන්න",
+    "keywords": [
+      "මට",
+      "ටක්",
+      "ගාලා",
+      "පෑනක්",
+      "දෙන්න"
+    ],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0004",
+    "type": "neg",
+    "input": "I can not ask for it",
+    "expected": "I can not ask for it",
+    "keywords": [],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0005",
+    "type": "neg",
+    "input": "mama වාහනයක් gaththaa",
+    "expected": "(System does not allowed to input sinhala )",
+    "keywords": [],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Neg_Fun_0006",
+    "type": "neg",
+    "input": "oyaa yanavaa navaa nam mama th yan na hithuvee",
+    "expected": "ඔයා යනවා නවා නම් මමත් යන්න හිතුවේ\n\n",
+    "keywords": [
+      "ඔයා",
+      "යනවා",
+      "නවා",
+      "නම්",
+      "මමත්"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Neg_Fun_0007",
+    "type": "neg",
+    "input": "mamakadeetayanagaman",
+    "expected": "මම කඩේට යන ගමන්",
+    "keywords": [
+      "මම",
+      "කඩේට",
+      "යන",
+      "ගමන්"
+    ],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0008",
+    "type": "neg",
+    "input": "mama mee senasuraadhath waeda",
+    "expected": "මම මේ සෙනසුරාදත් වැඩ",
+    "keywords": [
+      "මම",
+      "මේ",
+      "සෙනසුරාදත්",
+      "වැඩ"
+    ],
+    "expectedStatus": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0009",
+    "type": "neg",
+    "input": "mama adha rae 9ta eliyata yanavaa",
+    "expected": "මම අද රැ 9ට එලියට යනවා",
+    "keywords": [
+      "මම",
+      "අද",
+      "රැ",
+      "9ට",
+      "එලියට"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Neg_Fun_0010",
+    "type": "neg",
+    "input": "mata mee dhavasva;la raeta nindha yannee naee",
+    "expected": "මට මේ දවස්වල රැට නින්ද යන්නේ නෑ",
+    "keywords": [
+      "මට",
+      "මේ",
+      "දවස්වල",
+      "රැට",
+      "නින්ද"
+    ],
+    "expectedStatus": "Pass"
+  },
+  {
+    "id": "Neg_UI001",
+    "type": "ui",
+    "input": "aemarikaaveepaevathi41vanalookavivaahakaruuraejinatharagayeekiruLahimikaragaeniimatathaayilanthayeetharagakaariyasamathvuuatharashriilaqqkaavaniyoojanayakaraminsahaBhaagiivuusabiinaayuusafehithevanasthaanayahimivuuvaaya.",
+    "expected": "අමෙරිකාවේ පැවති 41වන ලෝක විවාහක රූ රැජින තරගයේ කිරුළ හිමිකරගැනීමට තායිලන්ත තරගකාරිය සමත්වූ අතර ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ සබීනා යූසෆ්එහි තෙවන ස්ථානය හිමිවූවාය",
+    "keywords": [
+      "අමෙරිකාවේ",
+      "පැවති",
+      "41වන",
+      "ලෝක",
+      "විවාහක"
+    ],
+    "expectedStatus": "Fail"
+  }
+]

@@ -1,0 +1,18 @@
+﻿{
+  "name": "it22918888-swift-translator-tests",
+  "version": "1.0.0",
+  "description": "Swift Translator Test Automation - ITPM Assignment 1",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "report": "npx playwright show-report"
+  },
+  "keywords": ["playwright", "testing", "automation", "singlish", "sinhala"],
+  "author": "IT22918888",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0"
+  }
+}

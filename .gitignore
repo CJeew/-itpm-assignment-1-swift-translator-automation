@@ -1,0 +1,8 @@
+﻿node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+.env
+.DS_Store
+Thumbs.db
+package-lock.json
