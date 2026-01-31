@@ -1,0 +1,7 @@
+GitHub Repository Link:
+https://github.com/CJeew/-itpm-assignment-1-swift-translator-automation
+
+Repository Name: itpm-assignment-1-swift-translator-automation
+Student Registration Number: IT22918888
+Course: IT3040 - ITPM
+Assignment: Assignment 1 - Semester 2
